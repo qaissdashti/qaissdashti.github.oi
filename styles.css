@@ -2,7 +2,7 @@
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 #body {
-  background-image: url(./images/walls.jpeg);
+  background-image: url(/images/walls.jpeg);
 }
 
 .h1 {
